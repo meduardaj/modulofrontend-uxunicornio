@@ -1,2 +1,4 @@
-# modulofrontend-uxunicornio
-Projeto realizado no modulo front end do curso design de produto ux unicornio
+# Site Curso de Design de Produto Ux Unicornio
+
+Modulo de frontend no programa de formacao Ux Unicornio
+Projeto realizado no modulo front end de curso design de produto ux unicornio presencial
