@@ -1,4 +1,4 @@
-# Construcao de site Curso de Design de Produto Ux Unicornio
+# Construcao de site Curso de Design de Produto Presencial 2023
 
 Esse foi o projeto do modulo de frontend no programa de formacao Ux Unicornio, onde aprendi a fazer um site com front end basico - html e css - 
 
