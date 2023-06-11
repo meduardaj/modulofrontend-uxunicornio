@@ -263,7 +263,7 @@ a.brand-logo {
 
 #stats {
     padding: 60px 0px;
-    background: url(assets/stats.png);
+    background-image: url(assets/stats.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 100px;
