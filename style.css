@@ -111,7 +111,7 @@ header#call-to-scroll {
 }
 
 header #background-map {
-    background-image: url(../mapa.svg);
+    background-image: url(../assets/mapa.svg);
     background-repeat: no-repeat;
     background-repeat-x: no-repeat;
     background-repeat-y: no-repeat;
@@ -263,7 +263,7 @@ a.brand-logo {
 
 #stats {
     padding: 60px 0px;
-    background: url(../stats.png);
+    background: url(../assets/stats.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 100px;
