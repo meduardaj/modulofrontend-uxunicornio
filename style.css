@@ -111,7 +111,7 @@ header#call-to-scroll {
 }
 
 header #background-map {
-    background-image: url(../assets/mapa.svg);
+    background-image: url(assets/mapa.svg);
     background-repeat: no-repeat;
     background-repeat-x: no-repeat;
     background-repeat-y: no-repeat;
